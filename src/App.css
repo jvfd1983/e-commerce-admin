@@ -14,14 +14,14 @@ body {
 
 /* Navbar styles */
 .navbar {
-  background-color: #333;
+  background-color: white;
   color: #fff;
   padding: 10px;
   height: 10%;
 }
 
 .navbar img {
-  max-width: 78px;
+  max-width: 500px;
 }
 
 /* Sidebar styles */
